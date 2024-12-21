@@ -7,3 +7,13 @@ Depois de criar o Fork do projeto, fazer o download da base e do dicionário, an
     - O tipo dos dados foi definido com o objetivo de reduzir o espaço em disco utilizado e otimizar a performance dos cálculos.
     - O diagrama está disponível no repositório ('Diagrama.pdf')
 
+- Criação do container no Docker
+
+- Configuração do MySQL no container
+
+- Criação do jupyter notebook
+
+- Instalação e importação das bibliotecas
+
+- Conexção com o BD via SQLAlchemy
+
