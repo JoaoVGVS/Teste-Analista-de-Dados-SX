@@ -1,0 +1,311 @@
+nm_col;cat_resp;desc_resp
+TP_FAIXA_ETARIA;1;Menor de 17 anos
+TP_FAIXA_ETARIA;2;17 anos
+TP_FAIXA_ETARIA;3;18 anos
+TP_FAIXA_ETARIA;4;19 anos
+TP_FAIXA_ETARIA;5;20 anos
+TP_FAIXA_ETARIA;6;21 anos
+TP_FAIXA_ETARIA;7;22 anos
+TP_FAIXA_ETARIA;8;23 anos
+TP_FAIXA_ETARIA;9;24 anos
+TP_FAIXA_ETARIA;10;25 anos
+TP_FAIXA_ETARIA;11;Entre 26 e 30 anos
+TP_FAIXA_ETARIA;12;Entre 31 e 35 anos
+TP_FAIXA_ETARIA;13;Entre 36 e 40 anos
+TP_FAIXA_ETARIA;14;Entre 41 e 45 anos
+TP_FAIXA_ETARIA;15;Entre 46 e 50 anos
+TP_FAIXA_ETARIA;16;Entre 51 e 55 anos
+TP_FAIXA_ETARIA;17;Entre 56 e 60 anos
+TP_FAIXA_ETARIA;18;Entre 61 e 65 anos
+TP_FAIXA_ETARIA;19;Entre 66 e 70 anos
+TP_FAIXA_ETARIA;20;Maior de 70 anos
+TP_SEXO;M;Masculino
+TP_SEXO;F;Feminino 
+TP_ESTADO_CIVIL;0;Não informado
+TP_ESTADO_CIVIL;1;Solteiro(a)
+TP_ESTADO_CIVIL;2;Casado(a)/Mora com companheiro(a)
+TP_ESTADO_CIVIL;3;Divorciado(a)/Desquitado(a)/Separado(a)
+TP_ESTADO_CIVIL;4;Viúvo(a)
+TP_COR_RACA;0;Não declarado
+TP_COR_RACA;1;Branca
+TP_COR_RACA;2;Preta
+TP_COR_RACA;3;Parda
+TP_COR_RACA;4;Amarela
+TP_COR_RACA;5;Indígena 
+TP_NACIONALIDADE;0;Não informado
+TP_NACIONALIDADE;1;Brasileiro(a)
+TP_NACIONALIDADE;2;Brasileiro(a) Naturalizado(a)
+TP_NACIONALIDADE;3;Estrangeiro(a)
+TP_NACIONALIDADE;4;Brasileiro(a) Nato(a), nascido(a) no exterior
+TP_ST_CONCLUSAO;1;Já concluí o Ensino Médio
+TP_ST_CONCLUSAO;2;Estou cursando e concluirei o Ensino Médio em 2020
+TP_ST_CONCLUSAO;3;Estou cursando e concluirei o Ensino Médio após 2020
+TP_ST_CONCLUSAO;4;Não concluí e não estou cursando o Ensino Médio
+TP_ANO_CONCLUIU;0;Não informado
+TP_ANO_CONCLUIU;1;2019
+TP_ANO_CONCLUIU;2;2018
+TP_ANO_CONCLUIU;3;2017
+TP_ANO_CONCLUIU;4;2016
+TP_ANO_CONCLUIU;5;2015
+TP_ANO_CONCLUIU;6;2014
+TP_ANO_CONCLUIU;7;2013
+TP_ANO_CONCLUIU;8;2012
+TP_ANO_CONCLUIU;9;2011
+TP_ANO_CONCLUIU;10;2010
+TP_ANO_CONCLUIU;11;2009
+TP_ANO_CONCLUIU;12;2008
+TP_ANO_CONCLUIU;13;2007
+TP_ANO_CONCLUIU;14;Antes de 2007
+TP_ESCOLA;1;Não Respondeu
+TP_ESCOLA;2;Pública
+TP_ESCOLA;3;Privada
+TP_ESCOLA;4;Exterior
+TP_ENSINO;1;Ensino Regular
+TP_ENSINO;2;Educação Especial - Modalidade Substitutiva
+TP_ENSINO;3;Educação de Jovens e Adultos
+IN_TREINEIRO;1;Sim
+IN_TREINEIRO;0;Não
+TP_DEPENDENCIA_ADM_ESC;1;Federal
+TP_DEPENDENCIA_ADM_ESC;2;Estadual
+TP_DEPENDENCIA_ADM_ESC;3;Municipal
+TP_DEPENDENCIA_ADM_ESC;4;Privada
+TP_LOCALIZACAO_ESC;1;Urbana
+TP_LOCALIZACAO_ESC;2;Rural
+TP_SIT_FUNC_ESC;1;Em atividade
+TP_SIT_FUNC_ESC;2;Paralisada
+TP_SIT_FUNC_ESC;3;Extinta
+TP_SIT_FUNC_ESC;4;Escola extinta em anos anteriores.
+TP_PRESENCA_CN;0;Faltou à prova
+TP_PRESENCA_CN;1;Presente na prova
+TP_PRESENCA_CN;2;Eliminado na prova
+TP_PRESENCA_CH;0;Faltou à prova
+TP_PRESENCA_CH;1;Presente na prova
+TP_PRESENCA_CH;2;Eliminado na prova
+TP_PRESENCA_LC;0;Faltou à prova
+TP_PRESENCA_LC;1;Presente na prova
+TP_PRESENCA_LC;2;Eliminado na prova
+TP_PRESENCA_MT;0;Faltou à prova
+TP_PRESENCA_MT;1;Presente na prova
+TP_PRESENCA_MT;2;Eliminado na prova
+CO_PROVA_CN;597;Azul
+CO_PROVA_CN;598;Amarela
+CO_PROVA_CN;599;Cinza
+CO_PROVA_CN;600;Rosa
+CO_PROVA_CN;601;Rosa - Ampliada
+CO_PROVA_CN;602;Rosa - Superampliada
+CO_PROVA_CN;604;Laranja - Adaptada Ledor
+CO_PROVA_CN;605;Verde - Videoprova - Libras
+CO_PROVA_CN;677;Azul (Reaplicação)
+CO_PROVA_CN;678;Amarela (Reaplicação)
+CO_PROVA_CN;679;Cinza (Reaplicação)
+CO_PROVA_CN;680;Rosa (Reaplicação)
+CO_PROVA_CN;684;Laranja - Adaptada Ledor (Reaplicação)
+CO_PROVA_CN;699;Azul (Digital)
+CO_PROVA_CN;700;Amarela (Digital)
+CO_PROVA_CN;701;Rosa (Digital)
+CO_PROVA_CN;702;Cinza (Digital)
+CO_PROVA_CH;567;Azul
+CO_PROVA_CH;568;Amarela
+CO_PROVA_CH;569;Branca
+CO_PROVA_CH;570;Rosa
+CO_PROVA_CH;571;Rosa - Ampliada
+CO_PROVA_CH;572;Rosa - Superampliada
+CO_PROVA_CH;574;Laranja - Adaptada Ledor
+CO_PROVA_CH;575;Verde - Videoprova - Libras
+CO_PROVA_CH;647;Azul (Reaplicação)
+CO_PROVA_CH;648;Amarela (Reaplicação)
+CO_PROVA_CH;649;Branca (Reaplicação)
+CO_PROVA_CH;650;Rosa (Reaplicação)
+CO_PROVA_CH;654;Laranja - Adaptada Ledor (Reaplicação)
+CO_PROVA_CH;687;Azul (Digital)
+CO_PROVA_CH;688;Amarela (Digital)
+CO_PROVA_CH;689;Branca (Digital)
+CO_PROVA_CH;690;Rosa (Digital)
+CO_PROVA_LC;577;Azul
+CO_PROVA_LC;578;Amarela
+CO_PROVA_LC;579;Rosa
+CO_PROVA_LC;580;Branca
+CO_PROVA_LC;581;Rosa - Ampliada
+CO_PROVA_LC;582;Rosa - Superampliada
+CO_PROVA_LC;584;Laranja - Adaptada Ledor
+CO_PROVA_LC;585;Verde - Videoprova - Libras
+CO_PROVA_LC;657;Azul (Reaplicação)
+CO_PROVA_LC;658;Amarela (Reaplicação)
+CO_PROVA_LC;659;Rosa (Reaplicação)
+CO_PROVA_LC;660;Branca (Reaplicação)
+CO_PROVA_LC;664;Laranja - Adaptada Ledor (Reaplicação)
+CO_PROVA_LC;691;Azul (Digital)
+CO_PROVA_LC;692;Amarela (Digital)
+CO_PROVA_LC;693;Branca (Digital)
+CO_PROVA_LC;694;Rosa (Digital)
+CO_PROVA_MT;587;Azul
+CO_PROVA_MT;588;Amarela
+CO_PROVA_MT;589;Rosa
+CO_PROVA_MT;590;Cinza
+CO_PROVA_MT;591;Rosa - Ampliada
+CO_PROVA_MT;592;Rosa - Superampliada
+CO_PROVA_MT;594;Laranja - Adaptada Ledor
+CO_PROVA_MT;595;Verde - Videoprova - Libras
+CO_PROVA_MT;667;Azul (Reaplicação)
+CO_PROVA_MT;668;Amarela (Reaplicação)
+CO_PROVA_MT;669;Rosa (Reaplicação)
+CO_PROVA_MT;670;Cinza (Reaplicação)
+CO_PROVA_MT;674;Laranja - Adaptada Ledor (Reaplicação)
+CO_PROVA_MT;695;Azul (Digital)
+CO_PROVA_MT;696;Amarela (Digital)
+CO_PROVA_MT;697;Rosa (Digital)
+CO_PROVA_MT;698;Cinza (Digital)
+TP_LINGUA;0;Inglês
+TP_LINGUA;1;Espanhol
+TP_STATUS_REDACAO;1;Sem problemas
+TP_STATUS_REDACAO;2;Anulada
+TP_STATUS_REDACAO;3;Cópia Texto Motivador
+TP_STATUS_REDACAO;4;Em Branco
+TP_STATUS_REDACAO;6;Fuga ao tema
+TP_STATUS_REDACAO;7;Não atendimento ao tipo textual
+TP_STATUS_REDACAO;8;Texto insuficiente
+TP_STATUS_REDACAO;9;Parte desconectada
+Q001;A;Nunca estudou.
+Q001;B;Não completou a 4ª série/5º ano do Ensino Fundamental.
+Q001;C;Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental.
+Q001;D;Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio.
+Q001;E;Completou o Ensino Médio, mas não completou a Faculdade.
+Q001;F;Completou a Faculdade, mas não completou a Pós-graduação.
+Q001;G;Completou a Pós-graduação.
+Q001;H;Não sei.
+Q002;A;Nunca estudou.
+Q002;B;Não completou a 4ª série/5º ano do Ensino Fundamental.
+Q002;C;Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental.
+Q002;D;Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio.
+Q002;E;Completou o Ensino Médio, mas não completou a Faculdade.
+Q002;F;Completou a Faculdade, mas não completou a Pós-graduação.
+Q002;G;Completou a Pós-graduação.
+Q002;H;Não sei.
+Q003;A;Grupo 1: Lavrador, agricultor sem empregados, bóia fria, criador de animais (gado, porcos, galinhas, ovelhas, cavalos etc.), apicultor, pescador, lenhador, seringueiro, extrativista.
+Q003;B;Grupo 2: Diarista, empregado doméstico, cuidador de idosos, babá, cozinheiro (em casas particulares), motorista particular, jardineiro, faxineiro de empresas e prédios, vigilante, porteiro, carteiro, office-boy, vendedor, caixa, atendente de loja, auxiliar administrativo, recepcionista, servente de pedreiro, repositor de mercadoria.
+Q003;C;Grupo 3: Padeiro, cozinheiro industrial ou em restaurantes, sapateiro, costureiro, joalheiro, torneiro mecânico, operador de máquinas, soldador, operário de fábrica, trabalhador da mineração, pedreiro, pintor, eletricista, encanador, motorista, caminhoneiro, taxista.
+Q003;D;Grupo 4: Professor (de ensino fundamental ou médio, idioma, música, artes etc.), técnico (de enfermagem, contabilidade, eletrônica etc.), policial, militar de baixa patente (soldado, cabo, sargento), corretor de imóveis, supervisor, gerente, mestre de obras, pastor, microempresário (proprietário de empresa com menos de 10 empregados), pequeno comerciante, pequeno proprietário de terras, trabalhador autônomo ou por conta própria.
+Q003;E;Grupo 5: Médico, engenheiro, dentista, psicólogo, economista, advogado, juiz, promotor, defensor, delegado, tenente, capitão, coronel, professor universitário, diretor em empresas públicas ou privadas, político, proprietário de empresas com mais de 10 empregados.
+Q003;F;Não sei.
+Q004;A;Grupo 1: Lavradora, agricultora sem empregados, bóia fria, criadora de animais (gado, porcos, galinhas, ovelhas, cavalos etc.), apicultora, pescadora, lenhadora, seringueira, extrativista.
+Q004;B;Grupo 2: Diarista, empregada doméstica, cuidadora de idosos, babá, cozinheira (em casas particulares), motorista particular, jardineira, faxineira de empresas e prédios, vigilante, porteira, carteira, office-boy, vendedora, caixa, atendente de loja, auxiliar administrativa, recepcionista, servente de pedreiro, repositora de mercadoria.
+Q004;C;Grupo 3: Padeira, cozinheira industrial ou em restaurantes, sapateira, costureira, joalheira, torneira mecânica, operadora de máquinas, soldadora, operária de fábrica, trabalhadora da mineração, pedreira, pintora, eletricista, encanadora, motorista, caminhoneira, taxista.
+Q004;D;Grupo 4: Professora (de ensino fundamental ou médio, idioma, música, artes etc.), técnica (de enfermagem, contabilidade, eletrônica etc.), policial, militar de baixa patente (soldado, cabo, sargento), corretora de imóveis, supervisora, gerente, mestre de obras, pastora, microempresária (proprietária de empresa com menos de 10 empregados), pequena comerciante, pequena proprietária de terras, trabalhadora autônoma ou por conta própria.
+Q004;E;Grupo 5: Médica, engenheira, dentista, psicóloga, economista, advogada, juíza, promotora, defensora, delegada, tenente, capitã, coronel, professora universitária, diretora em empresas públicas ou privadas, política, proprietária de empresas com mais de 10 empregados.
+Q004;F;Não sei.
+Q005;1;1, pois moro sozinho(a).
+Q005;2;2
+Q005;3;3
+Q005;4;4
+Q005;5;5
+Q005;6;6
+Q005;7;7
+Q005;8;8
+Q005;9;9
+Q005;10;10
+Q005;11;11
+Q005;12;12
+Q005;13;13
+Q005;14;14
+Q005;15;15
+Q005;16;16
+Q005;17;17
+Q005;18;18
+Q005;19;19
+Q005;20;20
+Q006;A;Nenhuma Renda
+Q006;B;Até R$ 1.045,00
+Q006;C;De R$ 1.045,01 até R$ 1.567,50
+Q006;D;De R$ 1.567,51 até R$ 2.090,00
+Q006;E;De R$ 2.090,01 até R$ 2.612,50
+Q006;F;De R$ 2.612,51 até R$ 3.135,00
+Q006;G;De R$ 3.135,01 até R$ 4.180,00
+Q006;H;De R$ 4.180,01 até R$ 5.225,00
+Q006;I;De R$ 5.225,01 até R$ 6.270,00
+Q006;J;De R$ 6.270,01 até R$ 7.315,00
+Q006;K;De R$ 7.315,01 até R$ 8.360,00
+Q006;L;De R$ 8.360,01 até R$ 9.405,00
+Q006;M;De R$ 9.405,01 até R$ 10.450,00
+Q006;N;De R$ 10.450,01 até R$ 12.540,00
+Q006;O;De R$ 12.540,01 até R$ 15.675,00
+Q006;P;De R$ 15.675,01 até R$ 20.900,00
+Q006;Q;Acima de R$ 20.900,00
+Q007;A;Não.
+Q007;B;Sim, um ou dois dias por semana.
+Q007;C;Sim, três ou quatro dias por semana.
+Q007;D;Sim, pelo menos cinco dias por semana.
+Q008;A;Não.
+Q008;B;Sim, um.
+Q008;C;Sim, dois.
+Q008;D;Sim, três.
+Q008;E;Sim, quatro ou mais.
+Q009;A;Não.
+Q009;B;Sim, um.
+Q009;C;Sim, dois.
+Q009;D;Sim, três.
+Q009;E;Sim, quatro ou mais.
+Q010;A;Não.
+Q010;B;Sim, um.
+Q010;C;Sim, dois.
+Q010;D;Sim, três.
+Q010;E;Sim, quatro ou mais.
+Q011;A;Não.
+Q011;B;Sim, uma.
+Q011;C;Sim, duas.
+Q011;D;Sim, três.
+Q011;E;Sim, quatro ou mais.
+Q012;A;Não.
+Q012;B;Sim, uma.
+Q012;C;Sim, duas.
+Q012;D;Sim, três.
+Q012;E;Sim, quatro ou mais.
+Q013;A;Não.
+Q013;B;Sim, um.
+Q013;C;Sim, dois.
+Q013;D;Sim, três.
+Q013;E;Sim, quatro ou mais.
+Q014;A;Não.
+Q014;B;Sim, uma.
+Q014;C;Sim, duas.
+Q014;D;Sim, três.
+Q014;E;Sim, quatro ou mais.
+Q015;A;Não.
+Q015;B;Sim, uma.
+Q015;C;Sim, duas.
+Q015;D;Sim, três.
+Q015;E;Sim, quatro ou mais.
+Q016;A;Não.
+Q016;B;Sim, um.
+Q016;C;Sim, dois.
+Q016;D;Sim, três.
+Q016;E;Sim, quatro ou mais.
+Q017;A;Não.
+Q017;B;Sim, uma.
+Q017;C;Sim, duas.
+Q017;D;Sim, três.
+Q017;E;Sim, quatro ou mais.
+Q018;A;Não.
+Q018;B;Sim.
+Q019;A;Não.
+Q019;B;Sim, uma.
+Q019;C;Sim, duas.
+Q019;D;Sim, três.
+Q019;E;Sim, quatro ou mais.
+Q020;A;Não.
+Q020;B;Sim.
+Q021;A;Não.
+Q021;B;Sim.
+Q022;A;Não.
+Q022;B;Sim, um.
+Q022;C;Sim, dois.
+Q022;D;Sim, três.
+Q022;E;Sim, quatro ou mais.
+Q023;A;Não.
+Q023;B;Sim.
+Q024;A;Não.
+Q024;B;Sim, um.
+Q024;C;Sim, dois.
+Q024;D;Sim, três.
+Q024;E;Sim, quatro ou mais.
+Q025;A;Não.
+Q025;B;Sim.
