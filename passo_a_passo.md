@@ -15,4 +15,7 @@ As próximas etapas seguidas são encontradas nos blocos de código abaixo, segu
 - Leitura do arquivo csv e alteração dos tipos de dados do Dataframe
 - Criação das tabelas, tipagem de dados e importação no BD
 - Criação, carregamento e importação das Tabelas Dicionário no BD
+- Criação do arquivo de indicadores levantados em Excel. Aqui vimos a necessidade de ajustar o banco, por isso, o diagrama foi ajustado para atender as necessidades do teste.
+
+
 
