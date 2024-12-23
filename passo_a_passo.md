@@ -15,7 +15,7 @@ As próximas etapas seguidas são encontradas nos blocos de código abaixo, segu
 - Leitura do arquivo csv e alteração dos tipos de dados do Dataframe
 - Criação das tabelas, tipagem de dados e importação no BD
 - Criação, carregamento e importação das Tabelas Dicionário no BD
-- Criação do arquivo de indicadores levantados em Excel. Aqui vimos a necessidade de ajustar o banco, por isso, o diagrama foi ajustado para atender as necessidades do teste.
+- Criação do arquivo de indicadores levantados em Excel. Aqui vi a necessidade de ajustar o banco, por isso, o diagrama foi ajustado para atender as necessidades do teste.
     - O arquivo está disponível [clicando aqui](https://docs.google.com/spreadsheets/d/1de-xZhzdkAc_e99nKchbXzaJc1hEG4fH/edit?usp=sharing&ouid=103709149943287631455&rtpof=true&sd=true)
 - Criação do arquivo de visões em Excel.
     - O arquivo está disponível [clicando aqui](https://docs.google.com/spreadsheets/d/1-msRg5k1M1YlXqOCOGfH4E_ZLjU3hK5e/edit?usp=sharing&ouid=103709149943287631455&rtpof=true&sd=true)
